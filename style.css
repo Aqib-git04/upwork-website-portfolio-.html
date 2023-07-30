@@ -1,0 +1,389 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h1 {
+    color: green;
+    display: inline-block;
+
+
+}
+
+#id1 {
+
+    display: inline-block;
+    margin: 36px;
+    padding: 9px;
+    /* width: 50%; */
+    height: 20px;
+
+}
+
+.btn2 {
+    display: inline-block;
+    color: white;
+    background-color: green;
+    border-radius: 23px;
+    /* width: 80px; */
+    height: 30px;
+}
+
+
+div#btn {
+    display: inline-block;
+
+}
+
+
+div#logo {
+
+
+    position: absolute;
+    display: inline-block;
+    left: 700px;
+    bottom: 90px;
+    top: 170px;
+
+
+
+}
+
+.para {
+
+    color: green;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 64px;
+    position: relative;
+    top: 55px;
+
+}
+
+.btn {
+
+    position: relative;
+    top: 80px;
+    left: 65px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-color: green;
+    width: 10%;
+    height: 50px;
+    border: none;
+
+
+
+}
+
+
+div#pic {
+
+    display: inline-block;
+    border: 2px solid red;
+    position: relative;
+    top: 200px;
+    left: -20px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 93px;
+
+
+}
+
+
+div#pic1 {
+
+    display: inline-block;
+    border: 2px solid red;
+    position: relative;
+    top: 200px;
+    left: -370px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    border: none;
+
+}
+
+div#pic2 {
+
+    display: inline-block;
+    position: relative;
+    top: 92px;
+    left: 330px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+
+
+
+
+}
+
+.span {
+
+    display: inline-block;
+    color: darkgrey;
+    position: relative;
+    left: 68px;
+    bottom: 20px;
+    top: 130px;
+
+}
+
+div#gif {
+    display: inline-block;
+    position: relative;
+    top: 110px;
+    /* left: 100px; */
+}
+
+.text {
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: -20px;
+    float: right;
+}
+
+.text1 {
+    display: inline-block;
+    position: relative;
+    top: -50px;
+    left: -42px;
+    float: right;
+}
+
+.text2 {
+    display: inline-block;
+    position: relative;
+    top: 25px;
+    left: 585px;
+    float: right;
+}
+
+#signup {
+
+    display: inline-block;
+    color: white;
+    position: relative;
+    top: 200px;
+    /* border-radius: 23px; */
+    width: 90px;
+    height: 0px;
+    left: 310px;
+}
+
+.btn3 {
+    padding: 15px;
+    margin: -2px;
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: 310px;
+    background-color: green;
+    height: 50px;
+    border-radius: 20px;
+    width: px;
+    border: none;
+    color: white;
+
+
+}
+
+.btn3:hover {
+    background-color: lightgreen;
+
+}
+
+.btn4 {
+
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: 310px;
+    height: 50px;
+    border-radius: 20px;
+    width: px;
+    border: 2px solid green;
+    background-color: white;
+
+
+
+}
+
+.btn4:hover {
+    background-color: green;
+}
+
+.head {
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: 70px;
+}
+
+div.head a {
+    color: green;
+}
+
+
+
+.card1 {
+    
+    width: 200px;
+    height: 150px;
+
+}
+
+.card2 {
+    width: 200px;
+    height: 150px;
+
+}
+
+.card3 {
+    width: 200px;
+    height: 150px;
+
+}
+
+.card4 {
+    width: 200px;
+    height: 150px;
+}
+
+.card5 {
+    width: 200px;
+    height: 150px;
+
+}
+
+.card6 {
+    width: 200px;
+    height: 150px;
+
+}
+
+.card7 {
+    width: 200px;
+    height: 150px;
+
+
+}
+
+.card8 {
+    width: 200px;
+    height: 150px;
+
+}
+
+.card9 {
+    width: 200px;
+    height: 150px;
+
+}
+
+#card1 {
+    color: rgb(63, 124, 1);
+    width: 64%;
+    display: flex;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    background-color: aliceblue;
+    margin: auto;
+}
+
+.card2:hover {
+
+    background-color: rgb(62, 204, 90);
+    transition: 2s;
+
+
+
+}
+
+.card3:hover {
+    background-color: rgb(62, 204, 90);
+    transition: 2s;
+
+}
+
+.card4:hover {
+    background-color: rgb(62, 204, 90);
+    transition: 2s;
+
+}
+
+.card5:hover {
+    background-color: rgb(62, 204, 90);
+    transition: 2s;
+
+}
+
+#card2 {
+    width: 64%;
+    display: flex;
+    color: rgb(63, 124, 1);
+    text-align: center;
+    position: relative;
+    top: 183px;
+    background-color: aliceblue;
+    margin: auto;
+}
+
+.card6:hover {
+    background-color: rgb(62, 204, 90);
+    transition: 2s;
+}
+
+.card7:hover {
+    background-color: rgb(62, 204, 90);
+    transition: 2s;
+}
+
+.card8:hover {
+    background-color: rgb(62, 204, 90);
+    transition: 2s;
+}
+
+.card9:hover {
+    background-color: rgb(62, 204, 90);
+    transition: 2s;
+}
+
+
+
+.footer {
+    width: 100%;
+    background-color: #001e00;
+    color: white;
+    display: flex;
+    position: relative;
+    top: 200px;
+    list-style: none;
+    list-style: none;
+
+}
+
+.footer1,li {
+    list-style: none;
+    padding: 20px;
+}
+#followus{
+    color: aqua;
+    position: relative;
+}
+.logo{
+    color: aliceblue;
+    display: block;
+}
+
